@@ -1,0 +1,28 @@
+name: AVOlabs
+favicon: null
+layout_spectrum: 0.8912758710794151
+typography_spectrum: 0.7980636875145137
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08538721268996596
+  lightness: 0.49339603655971587
+  saturation: 0.8982752864249051
+  rhythmicContrast: 0.937576328869909
+purpose: []
